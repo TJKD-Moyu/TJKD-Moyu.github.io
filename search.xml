@@ -13,10 +13,20 @@
       
       <categories>
           
-          <category> web前端 - 杂文 - 前端 - 科普 </category>
+          <category> web前端 </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 杂文 </tag>
+            
+            <tag> 前端 </tag>
+            
+            <tag> 科普 </tag>
+            
+        </tags>
       
     </entry>
     
